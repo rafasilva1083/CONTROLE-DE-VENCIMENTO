@@ -10,7 +10,7 @@ Este projeto consiste em uma planilha desenvolvida em Microsoft Excel para organ
 
 A proposta é centralizar informações em um único lugar, facilitando o monitoramento das datas, a identificação de prazos próximos do vencimento e a organização das atividades administrativas, assim que o computador é ligado a planilha automaticamente se abre e atualiza trazendo as informações atualizadas.
 
-## 🎯 Objetivos
+## Objetivos
 
 - Organizar informações de contratos e outros compromissos com prazo definido.
 - Facilitar o acompanhamento de datas de vencimento.
